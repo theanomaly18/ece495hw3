@@ -11,3 +11,18 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+#START:nighthawk
+
+nighthawk: 
+  title:       Citizen Mens Watch Nighthawk Chronograph
+  description: 
+    This chronograph timepiece for him showcases a stylish black 
+    ion-plated stainless steel case and bracelet. The round black 
+    dial includes luminous hands and markers and a date window. 
+    Protected by a mineral crystal. Features Eco-Drive technology, 
+    powered by light, so it never needs a battery. Water-resistant 
+    to 200 meters. From the Nighthawk collection.
+  price:       450.00
+  image_url:   nighthawk.png 
+#END:nighthawk
