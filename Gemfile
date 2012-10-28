@@ -7,7 +7,6 @@ gem 'rails', '3.2.8'
 
 gem 'sqlite3'
 
-
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -36,3 +35,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+#START_HIGHLIGHT
+gem 'will_paginate', '~> 3.0'
+#END_HIGHLIGHT
