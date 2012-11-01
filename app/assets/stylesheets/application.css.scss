@@ -13,11 +13,11 @@
  */
 
 #banner {
-  background: #9c9;
+  background: #B0B0B0;
   padding: 10px;
   border-bottom: 2px solid;
   font: small-caps 40px/40px "Times New Roman", serif;
-  color: #282;
+  color: #202;
   text-align: center;
 
   img {
@@ -35,7 +35,7 @@
 }
 
 #columns {
-  background: #141;
+  background: #202020;
 
   #main {
     margin-left: 17em;
@@ -48,7 +48,7 @@
     float: left;
     padding: 1em 2em;
     width: 13em;
-    background: #141;
+    background: #202020;
 
 /* START_HIGHLIGHT */
     form, div {
@@ -78,7 +78,7 @@
         list-style: none;
 
         a {
-          color: #bfb;
+          color: #B0B0B0;
           font-size: small;
         }
       }
@@ -90,11 +90,11 @@
 //#START:form
 .depot_form {
   fieldset {
-    background: #efe;
+    background: #FFF;
 
     legend {
-      color: #dfd;
-      background: #141;
+      color: #202;
+      background: #B0B0B0;
       font-family: sans-serif;
       padding: 0.2em 1em;
     }
